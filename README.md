@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>
+  Hi i'm Jessie uwu 
+</p>
+
 <!--
 **Jessiesmileuwu/Jessiesmileuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

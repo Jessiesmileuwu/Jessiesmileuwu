@@ -13,7 +13,7 @@
 <hr>
   <pre>
 
-## Who am I?
+ ## Who am I?
 
 <h2>
 <p>
@@ -30,8 +30,8 @@
   </h2>
   </pre>
 
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+ 
+    
 
     
 <!--h1 without bottom border-->
@@ -43,15 +43,28 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,mysql,coreldraw,=14" />
+    <img align="center" src="https://skillicons.dev/icons?i=bootstrap,css,html,mysql" />
   </a>
 </p>
 
 <img align="center"  alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
+
+## 🌙 Let's Connect
+<p align="center">
+  <a href="h"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:jessiehongstaruwu@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Jessiesmileuwu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/jesicaarteaga"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100010106987966"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/jessiehongki/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="h"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
 <!--
 **Jessiesmileuwu/Jessiesmileuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="50">&nbsp; 
+ <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

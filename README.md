@@ -20,7 +20,9 @@
 
 <h2>
 <div align="center">
-	<img alt="Hola" width="200px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br> 
+
+<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+
 </div>
 
   
@@ -32,13 +34,31 @@
 
 </p>
 
+## ⭐ Hobbies 
+
+<h2>
+
+<p>
+    🖌️ I love drawing and painting.
+    📚 I like to read.
+    📽️ I enjoy horror, fantasy and comedy movies.
+    🎶 My favorite music is rock and pop.
+
+
+</p>
+
+
+
 ## ⭐ Spotify Playing 🎧
 
 <div align="center">  
 	
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31vgzzs43c26bfgl5zcjly43zzam?si=47ceb78e32344280)
 
+<a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a> 
+
 </div>
+
 
   </h2>
   </pre>
@@ -60,6 +80,11 @@
   </a>
 </p>
 
+<div align="center">
+<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+</div>
+
+
 <img align="center"  alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
@@ -75,20 +100,7 @@
 	<a href="https://www.facebook.com/profile.php?id=100010106987966"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/jessiehongki/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="h"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+
+ <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 	
 </p>
-<!--
-**Jessiesmileuwu/Jessiesmileuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="50">&nbsp; 
- <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

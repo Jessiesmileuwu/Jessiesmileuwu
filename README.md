@@ -1,12 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1> 
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
-<p align="center">
-  Hi i'm Jessie uwu ✨
-</p>
+<h1 align="center">
+  Hi, i'm Jessie uwu ✨
+</h1>
 
 
  <!--horizontal divider(gradiant)-->
@@ -15,12 +16,13 @@
 <hr>
   <pre>
 
- ## Who am I?
+ ## ⭐ Who am I?
 
 <h2>
 <div align="center">
 	<img alt="Hola" width="200px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br> 
 </div>
+
   
 <p>
     🎨 I'm a graphic designer.
@@ -30,7 +32,7 @@
 
 </p>
 
-## Spotify Playing 🎧
+## ⭐ Spotify Playing 🎧
 
 <div align="center">  
 	
@@ -48,7 +50,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>
+    <summary><h2 style="display: inline-block">✨ Technologies That I Know ✨</h2></summary>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>
   </ul>
 </div>
 <!--tech stack icons-->

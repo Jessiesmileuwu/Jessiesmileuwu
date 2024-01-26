@@ -7,6 +7,8 @@
 <p align="center">
   Hi i'm Jessie uwu ✨
 </p>
+
+
  <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,16 +18,25 @@
  ## Who am I?
 
 <h2>
+<div align="center">
+	<img alt="Hola" width="200px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br> 
+</div>
+  
 <p>
     🎨 I'm a graphic designer.
     🖥️ I'm a technologist in information systems development.
     👻 Ask me about anything, I am happy to help, only if the ball is in my court!
-  
+
+
 </p>
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
+<div align="center">  
+	
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31vgzzs43c26bfgl5zcjly43zzam?si=47ceb78e32344280)
+
+</div>
 
   </h2>
   </pre>

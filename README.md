@@ -33,23 +33,24 @@
 
 
 </p>
+</h2>
 
 ## ⭐ Hobbies 
 
 <h2>
-
-<p>
     🖌️ I love drawing and painting.
     📚 I like to read.
     📽️ I enjoy horror, fantasy and comedy movies.
     🎶 My favorite music is rock and pop.
 
 
-</p>
+</h2>
+  </pre>
 
 
-
-## ⭐ Spotify Playing 🎧
+<h1 align="center">
+⭐ Spotify Playing 🎧 
+</h1>
 
 <div align="center">  
 	
@@ -60,11 +61,6 @@
 </div>
 
 
-  </h2>
-  </pre>
-
- 
-    
 
     
 <!--h1 without bottom border-->
